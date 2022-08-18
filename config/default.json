@@ -1,0 +1,10 @@
+{
+    "elastic-config": {
+      "cloudID": "elastic_donate:dXMtY2VudHJhbDEuZ2NwLmNsb3VkLmVzLmlvJDNiZTcxNWY1YmM0MDQ1NWY4ZjFkOTFiZGVlMzlkYWYyJDc3Y2U0N2VjNGRmZTRjOTU5NTMyMjJiZTlhODA0Y2Rm", 
+      "username": "elastic",
+      "password": "9zweBmH5igWPDMO3fczdmcEs"
+    },
+    "connection-string" : {
+      "value" : "mongodb+srv://m001-donate:BM5VWRo0xjHDj3eH@sandbox.5kgav.mongodb.net/?retryWrites=true&w=majority"
+    }
+  }

@@ -1,0 +1,22 @@
+{
+  "name": "donate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./bin/server.js",
+    "test": "node --inspect ./bin/server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "config": "^3.3.7",
+    "elasticsearch": "^16.7.3",
+    "express": "^4.18.1",
+    "mongodb": "^4.8.0",
+    "mongoose": "^6.5.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}

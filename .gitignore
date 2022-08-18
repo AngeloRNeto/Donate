@@ -1,0 +1,8 @@
+/node_modules/
+*-config.json
+.DS_Store
+/data.json
+/addons/TensorFlow-py/tf_files
+/application/routes/images
+/https
+/addons/Log123/123*.txt
